@@ -1,0 +1,2 @@
+# schizophrenia_prediction
+Schizophrenia prediction
